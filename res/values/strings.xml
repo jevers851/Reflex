@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reflex</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnPlay">Play</string>
+    <string name="title_activity_play_game">PlayGame</string>
+    <string name="title_activity_game_over">GameOver</string>
+	<string name="gameOver">Game Over!</string>
+	<string name="score">Score:</string>
+	<string name="btnReplay">Replay</string>
+	<string name="replay">Replay</string>
+	
+</resources>
